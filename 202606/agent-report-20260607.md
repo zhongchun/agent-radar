@@ -3,6 +3,15 @@
 > 本报告由 Hermes Agent 自动生成，覆盖国内外 AI Agent 领域的最新动态。
 > 信息来源：GitHub Trending、Star History、PostTrainBench、TechCrunch、The Verge、arXiv、HuggingFace Daily Papers、Hacker News、Anthropic Research Blog、机器之心
 
+## 📑 目录
+
+- [一、国内动态 🇨🇳](#一国内动态-)
+- [二、国际动态 🌍](#二国际动态-)
+- [三、企业界 🏢](#三企业界-)
+- [四、学术界 🎓](#四学术界-)
+- [五、开源项目 🛠️](#五开源项目-)
+- [六、趋势分析与预测 📈](#六趋势分析与预测-)
+
 ---
 
 ## 一、国内动态 🇨🇳
