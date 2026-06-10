@@ -1,7 +1,7 @@
 # AI Agent 日报 — 2026年06月10日
 
 > 本报告由 Hermes Agent 自动生成，覆盖国内外 AI Agent 领域的最新动态。
-> 信息来源：TechCrunch、VentureBeat、Hacker News、Anthropic 官方博客、量子位、36氪、arXiv、Hugging Face Daily Papers、GitHub Trending、Star History、PostTrainBench
+> 信息来源：GitHub Trending、PostTrainBench、HuggingFace Daily Papers、arXiv、TechCrunch、VentureBeat、The Verge、Hacker News、量子位、36氪
 
 ## 📑 目录
 
@@ -16,291 +16,214 @@
 
 ## 一、国内动态 🇨🇳
 
-### 1. 百度智能云与 FluxA 战略合作，共建 Agent 经济全球支付基础设施
-百度智能云与 FluxA 达成战略合作，双方将共同建设面向 AI Agent 经济的全球支付基础设施，为智能体之间的价值流转提供底层支持。
+1. **百度智能云与 FluxA 达成战略合作，共建 Agent 经济全球支付基础设施**
+   - 来源：量子位
+   - 百度智能云与 FluxA 达成战略合作，双方将共同建设 Agent 经济的全球支付基础设施，为智能体经济提供底层支付能力支撑。
+   - [查看原文](https://www.qbitai.com)
 
-- 来源：量子位
-- [查看原文](https://www.qbitai.com)
+2. **奥尼 AI Agent OS 与 Token 工厂正式上线，构建智能体运行新生态**
+   - 来源：36氪
+   - 奥尼发布 AI Agent OS 和 Token 工厂，构建从开发到运营的完整智能体运行链路，改变的不只是产品形态，更是 AI 进入真实业务场景的方式。
+   - [查看原文](https://www.36kr.com)
 
-### 2. 蚂蚁集团推出海外 AI 智能体运营方案，助力商户全球化
-蚂蚁集团发布面向海外市场的 AI 支付解决方案，商户可通过 AI 智能体实现全球化业务运营，标志着中国支付巨头正式将 Agent 能力推向国际市场。
+3. **与爱为舞亮相腾讯云 AI 产业应用大会，打造下一代学习 Agent**
+   - 来源：量子位
+   - 与爱为舞深耕教育大模型领域，在腾讯云 AI 产业应用大会上展示了其打造的下一代学习 Agent 产品。
+   - [查看原文](https://www.qbitai.com)
 
-- 来源：量子位
-- [查看原文](https://www.qbitai.com)
+4. **蚂蚁集团推出海外 AI 支付解决方案，商户可实现全球智能体运营**
+   - 来源：量子位
+   - 蚂蚁集团发布面向海外市场的 AI 支付解决方案，支持商户通过智能体技术实现全球运营，推动跨境商业的智能化转型。
+   - [查看原文](https://www.qbitai.com)
 
-### 3. 腾讯推动企业 AI 统一入口，「让企业打开 AI 的方式只剩一个」
-腾讯正在推动企业 AI 应用的高度整合，探索打造统一的 AI Agent 入口，旨在简化企业接入和使用 AI 的方式，降低多平台碎片化带来的管理成本。
+5. **微信 AI 智能体生态加速扩张，美团"小美"与腾讯元宝互通探路**
+   - 来源：36氪
+   - 微信 AI 智能体生态快速集结，但落地仍需跨越数据互通、场景适配和商业闭环三道坎。美团"小美"与腾讯元宝的互通被视为微信智能体生态的重要样板。
+   - [查看原文](https://www.36kr.com)
 
-- 来源：量子位
-- [查看原文](https://www.qbitai.com)
+6. **圆木智能完成数千万元天使轮融资，构建工业智能体**
+   - 来源：36氪
+   - 专注工业智能体的圆木智能宣布完成数千万元天使轮融资，其 AI 排产智能体破解制造业排产痛点，赋能行业智能化升级。
+   - [查看原文](https://www.36kr.com)
 
-### 4. 奥尼 AI Agent OS 与 Token 工厂正式上线，构建智能体运行新生态
-奥尼正式发布 AI Agent OS 和 Token 工厂产品，构建从 Token 生产到智能体运行的完整生态链路，是国内 Agent 操作系统化的重要尝试。
-
-- 来源：36氪
-- [查看原文](https://www.36kr.com)
-
-### 5. 阿里 QoderWork 桌面 Agent 发布：能干活但仅「实习生水平」
-阿里推出桌面级 AI Agent 产品 QoderWork，可执行文件管理、信息检索等办公任务。36氪评测认为其功能可用但能力尚处于初级阶段，桌面 Agent 赛道正式爆发。
-
-- 来源：36氪
-- [查看原文](https://www.36kr.com)
-
-### 6. Kimi 用 300 个 Agent 预测 104 场世界杯比赛
-月之暗面 Kimi 使用 300 个 AI Agent 构建多智能体预测系统，对世界杯进行大规模预测实验，是国内多 Agent 系统在真实场景中的一次公开验证。
-
-- 来源：36氪
-- [查看原文](https://www.36kr.com)
-
-### 7. MiniMax 全力布局 AI Agent 赛道
-MiniMax 明确将 AI Agent 作为核心战略方向，试图在 Token 经济时代抢占 Agent 赛道先机，显示国内大模型厂商正从模型能力竞争转向 Agent 应用生态竞争。
-
-- 来源：36氪
-- [查看原文](https://www.36kr.com)
-
-### 8. 探迹 B2C 智能体跻身万亿 Tokens 俱乐部
-探迹科技 B2C 智能体实现规模化商用，其太擎平台已形成完整的商业闭环，日消耗 Token 量突破万亿级别，显示 AI Agent 商业化进程正在加速。
-
-- 来源：36氪
-- [查看原文](https://www.36kr.com)
+7. **DeepSeek 开招土木工程师，自建 GW 级数据中心**
+   - 来源：量子位
+   - DeepSeek 开始大规模招聘土木工程人员，计划自建 GW 级数据中心，显示了国产大模型公司在算力基础设施上的巨大投入。
+   - [查看原文](https://www.qbitai.com)
 
 ---
 
 ## 二、国际动态 🌍
 
-### 1. TechCrunch：内存工具可能让 AI Agent 表现更差
-TechCrunch 深度报道指出，AI Agent 中引入记忆/内存管理机制并非总是带来性能提升，不当的记忆策略反而可能引入噪声和偏差，降低 Agent 整体表现。这对正在快速发展的 Agent 记忆管理技术方向提出了重要警示。
+1. **GPT-5.5 在 Agents' Last Exam 基准上击败 Claude Fable 5**
+   - 来源：VentureBeat
+   - 在最严苛的新基准"Agents' Last Exam"上，GPT-5.5 出人意料地击败 Claude Fable 5。这与近期第三方分析一致，表明 OpenAI 模型在多步骤复杂提示执行方面目前具有优势。
+   - [查看原文](https://venturebeat.com/category/ai/)
 
-- 来源：TechCrunch
-- [查看原文](https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/)
+2. **Anthropic CEO 呼吁对强大 AI 模型实施 FAA 式监管**
+   - 来源：VentureBeat
+   - Dario Amodei 公开呼吁建立类似美国联邦航空管理局（FAA）的 AI 监管机构，对强大 AI 模型进行审批和持续监督，企业需为此做好供应商多元化的准备。
+   - [查看原文](https://venturebeat.com/category/ai/)
 
-### 2. xAI 因 Grok 安全问题解雇举报工程师，遭起诉
-xAI 被指控解雇了一名对 Grok AI Agent 安全问题提出内部警告的工程师，该工程师已正式提起诉讼。事件再次将 AI Agent 安全治理和内部安全文化推至风口浪尖。
+3. **德国法院里程碑式裁决：Google AI Overviews 属 Google 自身言论，需为其负责**
+   - 来源：The Verge
+   - 德国法院作出里程碑式裁决，认定 Google 的 AI Overviews 生成的是 Google 自身的内容表达而非简单的搜索聚合，因此 Google 需对这些 AI 生成内容的准确性承担法律责任。
+   - [查看原文](https://www.theverge.com/ai-artificial-intelligence)
 
-- 来源：TechCrunch
-- [查看原文](https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/)
+4. **Signal 领导层警告 Agentic AI 存在严重安全隐患**
+   - 来源：Hacker News / Coywolf
+   - Signal 总裁和副总裁公开发出警告，称 Agentic AI 存在不安全、不可靠的隐患，并可能成为大规模监控的工具。
+   - [查看原文](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
-### 3. Anthropic 发布「为生物学中的 Agent 铺路」研究
-Anthropic 于 6 月 8 日发布重要研究《Paving the Way for Agents in Biology》，探讨 AI Agent 在生物科学领域的应用前景和路径，是 Agent 进军垂直科学领域的重要标志。
-
-- 来源：Anthropic Blog
-- [查看原文](https://www.anthropic.com/research/agents-in-biology)
-
-### 4. AI-pilled 公司员工月均 AI 支出达 7500 美元
-最新报告显示，重度采用 AI 的企业每位员工月均 AI 相关支出高达 7500 美元，涵盖模型 API、Agent 平台、基础设施等，反映企业级 AI Agent 部署成本持续攀升。
-
-- 来源：TechCrunch
-- [查看原文](https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/)
-
-### 5. Hacker News 热议：BitBoard (YC X25) — 医疗后台 AI Agent
-医疗 AI Agent 初创公司 BitBoard 在 Hacker News 引发 63 分高热度讨论。该公司专注于医疗保健后台流程的 Agent 自动化，为 YC X25 批次项目。
-
-- 来源：Hacker News
-- [查看原文](https://news.ycombinator.com)
-
-### 6. Hacker News：Pyleak — 检测 AI Agent 延迟中的异步问题
-开发者发布开源工具 Pyleak，用于检测 Python asyncio 中导致 AI Agent 响应延迟的并发问题，体现了社区对 Agent 工程质量的日益关注。
-
-- 来源：Hacker News
-- [查看原文](https://news.ycombinator.com)
+5. **微软因数据留存担忧限制员工使用 Claude Fable**
+   - 来源：The Verge
+   - 微软内部对 Anthropic 30 天数据留存政策表示担忧，已限制员工使用 Claude Fable 服务。
+   - [查看原文](https://www.theverge.com/ai-artificial-intelligence)
 
 ---
 
 ## 三、企业界 🏢
 
-### 1. Jedify 获 2400 万美元 A 轮融资，打造企业 AI Agent 上下文图谱
-纽约初创公司 Jedify 完成由 Norwest 领投的 2400 万美元 A 轮融资。该公司构建企业上下文图谱（Context Graph），通过 API 连接数据库、数据仓库、SaaS 工具、文档和 Slack 等知识源，让 AI Agent 能理解企业特有的业务逻辑。**Snowflake 作为战略投资者参与本轮**，计划将 Jedify 技术集成到其 Cortex AI 等产品中。
+1. **Amazon 再借 175 亿美元银行信贷，AI 支出持续加码**
+   - 来源：TechCrunch
+   - 刚完成债券发行的 Amazon 又向银行借款 175 亿美元，持续加大对 AI 基础设施的投资力度，显示了科技巨头在 AI 领域的军备竞赛不断升级。
+   - [查看原文](https://techcrunch.com/category/artificial-intelligence/)
 
-- 来源：TechCrunch
-- [查看原文](https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/)
+2. **"AI 上瘾"企业每月为每位员工花费 7500 美元在 AI 上**
+   - 来源：TechCrunch
+   - 报告显示，深度采用 AI 的企业每月为每位员工在 AI 工具和服务上的支出高达 7500 美元，反映了企业 AI 采用的真实成本。
+   - [查看原文](https://techcrunch.com/2026/06/10/)
 
-### 2. Snowflake 战略投资 Jedify，布局企业 Agent 基础设施
-Snowflake 不仅参与 Jedify 的 A 轮融资，更计划将 Jedify 的上下文图谱技术深度集成到其 Cortex AI、Semantic Views 和 CoWork 产品线中，显示数据平台巨头正积极构建 Agent 时代的基础设施护城河。
+3. **Jedify 融资 2400 万美元，帮助企业为 AI Agent 提供业务上下文**
+   - 来源：TechCrunch
+   - 专注于帮助企业为 AI Agent 灌入业务上下文信息的 Jedify 宣布获得 2400 万美元融资，瞄准企业 AI Agent 部署的关键瓶颈。
+   - [查看原文](https://techcrunch.com/category/artificial-intelligence/)
 
-- 来源：TechCrunch
-- [查看原文](https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/)
+4. **Datadog 前员工创立 AI 编码初创公司 Niteshift，押注反厂商锁定**
+   - 来源：TechCrunch
+   - 多位 Datadog 前高管创办 AI 编码初创公司 Niteshift，核心策略是打破 AI 编程工具对单一大模型厂商的锁定，提供多模型灵活切换的开发体验。
+   - [查看原文](https://techcrunch.com/category/artificial-intelligence/)
 
-### 3. Google DeepMind 持续迭代 Gemini 多 Agent 体系
-DeepMind 近期密集发布 Co-Scientist（多 Agent AI 科研协作伙伴）、Gemini 3.5（带行动能力的前沿智能）、Gemini Omni（语音翻译）等产品，显示 Google 正在构建覆盖科学、办公、语音等多场景的 Agent 矩阵。
+5. **MassMutual 的 AI 策略：12 个月合同、30% 生产力提升、零供应商锁定**
+   - 来源：VentureBeat
+   - 保险公司 MassMutual 分享了其 AI 采购策略：采用 12 个月短期合同、多模型技术栈，实现了 30% 的开发者生产力提升，同时避免了供应商锁定。
+   - [查看原文](https://venturebeat.com/category/ai/)
 
-- 来源：Google DeepMind Blog
-- [查看原文](https://deepmind.google)
+6. **Cohere 开源可在单张 H100 上运行的编码 Agent**
+   - 来源：VentureBeat
+   - Cohere 开源了一款 30B 参数的编码 Agent，仅需单张 H100 GPU 即可运行，大幅降低了部署门槛。
+   - [查看原文](https://venturebeat.com/category/ai/)
 
-### 4. Meta AI Agent for WhatsApp Business 全球上线
-Meta 的 WhatsApp Business AI Agent 于 6 月 3 日面向全球推出，企业可通过 WhatsApp 部署 AI Agent 进行客户服务，是社交平台 Agent 化的又一里程碑。
-
-- 来源：TechCrunch
-- [查看原文](https://techcrunch.com)
-
-### 5. Apple 批准首个 Messages for Business AI Agent
-Apple 于 6 月 4 日批准 Poke 成为 Messages for Business 上的首个 AI Agent，标志着 Apple 正式在其消息生态中引入第三方 AI Agent。
-
-- 来源：TechCrunch
-- [查看原文](https://techcrunch.com)
-
-### 6. Stripe 更新 Link 以支持自主 AI Agent 支付
-Stripe 于 4 月 30 日更新其 Link 支付产品，使其能支持自主 AI Agent 完成支付操作，是金融基础设施适配 Agent 经济的重要一步。
-
-- 来源：TechCrunch
-- [查看原文](https://techcrunch.com)
-
-### 7. 网络安全研究者对 Anthropic Fable 安全护栏表达不满
-多个网络安全研究团队对 Anthropic 新发布的 Fable Agent 的安全护栏 （Guardrails） 表示担忧，认为限制过于宽松，可能带来 Agent 安全风险。
-
-- 来源：TechCrunch
-- [查看原文](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)
+7. **Warner Music 收购 AI 版权归属初创公司 Sureel AI**
+   - 来源：TechCrunch
+   - 华纳音乐收购 AI 版权归属追踪初创公司 Sureel AI，标志着内容产业对 AI 版权管理的重视持续升温。
+   - [查看原文](https://techcrunch.com/category/artificial-intelligence/)
 
 ---
 
 ## 四、学术界 🎓
 
-### Hugging Face 每日精选（6 月 10 日）
+1. **Workflow-GYM：面向真实职业场景的计算机操作 Agentic 任务长时程评估**
+   - 作者：多机构合作 | arXiv: 2606.11042
+   - 提出 Workflow-GYM 基准，评估 AI Agent 在真实职业领域（如办公软件操作、数据分析流程）中执行长时程任务的能力。
+   - [查看原文](https://arxiv.org/abs/2606.11042)
 
-### 1. Role-Agent: 双重角色进化引导 LLM Agent 自主提升
-提出通过「作者-评论者」双重角色进化策略引导 LLM Agent 自我改进，无需人类标注即可持续提升 Agent 能力。
+2. **AgentCanary：面向自主 AI Agent 的可执行环境安全评估框架**
+   - arXiv: 2606.10484
+   - 提出 AgentCanary 框架，在真实可执行环境中系统性评估自主 AI Agent 的安全性，覆盖对抗性攻击、权限滥用等场景。
+   - [查看原文](https://arxiv.org/abs/2606.10484)
 
-- 作者：Xucong Wang 等 | 73 upvotes
-- [📄 arXiv:2606.10917](https://arxiv.org/abs/2606.10917)
+3. **The Arbiter Agent：持续监控多 Agent 对话以检测新兴对齐偏差**
+   - arXiv: 2606.10747
+   - 提出 Arbiter Agent 概念，作为第三方监督者持续监控多个 AI Agent 之间的对话，实时检测和预警可能出现的安全对齐问题。
+   - [查看原文](https://arxiv.org/abs/2606.10747)
 
-### 2. Retrospective Harness Optimization：基于轨迹展开自偏好优化 Agent
-**微软研究院**提出回顾性约束优化方法，通过对 Agent 轨迹展开的自偏好学习改进 LLM Agent 的决策质量。
+4. **Watts and Debts of Agentic Frameworks：Agentic 框架的成本与代价实证研究**
+   - arXiv: 2606.10702
+   - 系统性地量化分析了主流 Agentic 框架（如 LangChain、CrewAI 等）在计算资源消耗、Token 成本和延迟方面的实际代价。
+   - [查看原文](https://arxiv.org/abs/2606.10702)
 
-- 机构：Microsoft Research | 48 upvotes
-- [📄 Hugging Face Papers](https://huggingface.co/papers?date=2026-06-10)
+5. **Harnessing the Collective Intelligence of AI Agents in the Wild for New Discoveries**
+   - arXiv: 2606.10402
+   - 研究如何利用部署在实际环境中的 AI Agent 群体智慧，协同完成新知识发现，探讨了 Agent 间的知识共享与协作机制。
+   - [查看原文](https://arxiv.org/abs/2606.10402)
 
-### 3. SearchSwarm: 面向长时间跨度深度研究的 Agent 委托智能
-提出 Agent 委托智能框架 SearchSwarm，支持 LLM Agent 在长时间跨度的深度研究任务中进行智能的任务分解和委托。
+6. **The Agentic Web Requires New Normative Infrastructure**
+   - arXiv: 2606.10711
+   - 探讨 Agentic Web 时代所需的规范性基础设施，包括 Agent 身份认证、行为规范、责任归属等关键问题。
+   - [查看原文](https://arxiv.org/abs/2606.10711)
 
-- 44 upvotes
-- [📄 Hugging Face Papers](https://huggingface.co/papers?date=2026-06-10)
+7. **Observability for Delegated Execution in Agentic AI Systems**
+   - arXiv: 2606.09692
+   - 研究 Agentic AI 系统中委托执行的可观测性问题，提出监控和审计框架以确保委托执行的透明性和可追溯性。
+   - [查看原文](https://arxiv.org/abs/2606.09692)
 
-### 4. MemDreamer: 层次图记忆 + Agentic 检索的长视频理解
-提出 MemDreamer 框架，通过层次化图记忆和 Agentic 检索机制解耦感知与推理，实现长视频的有效理解。
+8. **GitInject：AI 驱动 CI/CD 流水线中的真实世界 Prompt 注入攻击**
+   - arXiv: 2606.09935
+   - 揭示了在 AI 驱动的 CI/CD 流水线中，通过 Git 提交信息注入恶意 Prompt 的真实攻击向量及其防御策略。
+   - [查看原文](https://arxiv.org/abs/2606.09935)
 
-- 机构：inclusionAI | 35 upvotes
-- [📄 Hugging Face Papers](https://huggingface.co/papers?date=2026-06-10)
+9. **The Interlocutor Effect：为何 LLM 对 Agent 泄露的个人数据多于对人类的泄露**
+   - arXiv: 2606.09844
+   - 发现 LLM 在与 AI Agent 交互时泄露的个人隐私数据显著多于与人类交互时，揭示了 Agent 间通信的隐私风险。
+   - [查看原文](https://arxiv.org/abs/2606.09844)
 
-### arXiv 最新 Agent 论文（6 月 9 日提交）
-
-### 5. EEVEE: 真实世界测试时提示学习，实现自我改进 Agent
-首个多数据集测试时提示学习框架，让 LLM Agent 在真实世界环境中实现自我改进，无需额外训练。
-
-- 作者：Weixian Xu, Shilong Liu, Mengdi Wang
-- [📄 arXiv:2606.11182](https://arxiv.org/abs/2606.11182)
-
-### 6. Data Journalist Agent: 数据自动转化为可验证多模态故事
-提出数据新闻 Agent，能够自动将原始数据转化为包含图表的可验证多模态叙事故事，项目页 data2story.github.io。
-
-- 作者：Kevin Qinghong Lin 等
-- [📄 arXiv:2606.11176](https://arxiv.org/abs/2606.11176)
-
-### 7. DarkAgents: 暗物质物理多 Agent 系统
-**博洛尼亚大学/INFN** 提出 DarkAgents 多 Agent 系统，由 LLM 驱动实现暗物质物理研究的自动化工具链，是 Agent 在基础科学中的重要应用。
-
-- 机构：Univ. of Bologna / INFN
-- [📄 arXiv:2606.11157](https://arxiv.org/abs/2606.11157)
-
-### 8. ABC-Bench: 面向生物安全的 Agentic 能力基准
-提出 ABC-Bench 基准，评估 LLM Agent 在生物研究领域的能力与潜在风险，填补了 AI Agent 生物安全评估的空白。
-
-- 作者：Andrew Bo Liu 等
-- [📄 arXiv:2606.11150](https://arxiv.org/abs/2606.11150)
-
-### 9. TRACE: 统一 Rollout 预算分配的 Agentic RL 训练框架
-提出 TRACE 框架，通过统一的 Rollout 预算分配策略实现高效的 Agentic 强化学习训练。
-
-- 作者：Heming Zou 等
-- [📄 arXiv:2606.11119](https://arxiv.org/abs/2606.11119)
-
-### 10. VISTA: 通用交互式用户模拟工具包，Agent 动态评估
-**哥伦比亚大学**提出 VISTA 工具包，支持动态多步 Agent 交互评估中的用户行为模拟。
-
-- 机构：Columbia University
-- [📄 arXiv:2606.11079](https://arxiv.org/abs/2606.11079)
-
-### 11. Moonshine: 以猜想生成为核心的自主数学研究 Agent
-提出 Moonshine 自主数学研究 Agent，以数学猜想生成为核心目标，探索 AI 在前沿数学研究中的可能性。
-
-- 作者：Xiaoyang Chen, Xiang Jiang
-- [📄 arXiv:2606.10806](https://arxiv.org/abs/2606.10806)
-
-### 12. Frontier Coding Agents 使用元编程适应陌生编程语言
-研究发现前沿编码 Agent 能够使用元编程技术（Metaprogramming）快速适应不熟悉的编程语言，展现了 Agent 的语言泛化能力。
-
-- 作者：Aman Sharma 等
-- [📄 arXiv:2606.10933](https://arxiv.org/abs/2606.10933)
+10. **SearchSwarm：面向长时程深度研究的 Agentic LLM 委托智能**
+    - HuggingFace Daily Papers
+    - 提出 SearchSwarm 框架，研究 Agentic LLM 在长时程深度研究中的委托智能和协作搜索策略。
+    - [查看原文](https://huggingface.co/papers?date=2026-06-10)
 
 ---
 
 ## 五、开源项目 🛠️
 
-### GitHub Trending — AI Agent 相关项目（6 月 10 日）
+1. **addyosmani/agent-skills** ⭐ 51.7K（今日 +781）
+   - 生产级 AI 编码 Agent 工程技能集。提供面向 AI 编码 Agent 的生产级技能模板和最佳实践，涵盖测试、部署、监控等全生命周期。
+   - [查看原文](https://github.com/addyosmani/agent-skills)
 
-| 排名 | 项目 | 描述 | Stars | 日增 |
-|------|------|------|-------|------|
-| #1 | **addyosmani/agent-skills** | AI 编程 Agent 的生产级工程技能集合 | 51,669 | +781 |
-| #2 | **phuryn/pm-skills** | 100+ Agentic 技能/命令/插件市场 | 14,784 | +775 |
-| #4 | **mvanhorn/last30days-skill** | AI Agent 跨平台研究技能 | 39,028 | +2,561 |
-| #6 | **x1xhlol/system-prompts-and-models-of-ai-tools** | 20+ AI 工具 System Prompt 集合 | **139,499** | +397 |
-| #7 | **obra/superpowers** | Agentic 技能框架与开发方法论 | **223,557** | +1,205 |
-| #9 | **harry0703/MoneyPrinterTurbo** | AI 大模型一键生成短视频 | 84,966 | +1,471 |
-| #11 | **luongnv89/claude-howto** | Claude Code 可视化指南（基础→高级 Agent） | 36,508 | +204 |
-| #15 | **google/skills** | Google 产品 Agent Skills | 13,261 | +238 |
+2. **phuryn/pm-skills** ⭐ 14.8K（今日 +775）
+   - PM 技能市场：100+ Agentic 技能、命令和插件，覆盖从发现、策略、执行到发布和增长的完整产品管理流程。
+   - [查看原文](https://github.com/phuryn/pm-skills)
 
-**关键趋势：「Agent Skills」生态成为 2026 年最大热点**，agent-skills、pm-skills、superpowers、last30days-skill、google/skills 五个 Skills 类项目同时占据 GitHub Trending，标志着 Agent 开发正从框架构建转向技能生态建设。
+3. **mvanhorn/last30days-skill** ⭐ 39K（今日 +2,561）
+   - AI Agent 技能工具：跨 Reddit、X、YouTube、HN、Polymarket 和 Web 进行话题研究，生成综合摘要，今日增长迅猛。
+   - [查看原文](https://github.com/mvanhorn/last30days-skill)
 
-### Star History — AI Agent 项目 Star 趋势
+4. **obra/superpowers** ⭐ 223.6K（今日 +1,205）
+   - Agentic 技能框架与软件开发方法论，今日依然保持每日千星以上的强劲增长，是该领域最大、最活跃的项目。
+   - [查看原文](https://github.com/obra/superpowers)
 
-| 项目 | Stars | 趋势判断 |
-|------|-------|----------|
-| **AutoGPT** | 184,877 | 早期爆款，增长放缓但总量领先 |
-| **Dify** | 144,740 | 🔥**持续高增长**，中国团队明星项目 |
-| **LangChain** | 138,984 | 稳态增长，Agent 框架标杆 |
-| **MetaGPT** | 68,691 | 稳定增长 |
-| **Microsoft AutoGen** | 58,850 | 稳步增长 |
-| **CrewAI** | 53,226 | 🔥快速增长，多 Agent 编排热门 |
-| **Agno** | 40,627 | 🔥新兴项目，增速快 |
-| **smolagents** | 27,803 | HuggingFace 出品，稳步增长 |
-| **BabyAGI** | 22,299 | 早期标杆，增长已停滞 |
-| **PydanticAI** | 17,681 | 新兴项目，稳步增长 |
+5. **x1xhlol/system-prompts-and-models-of-ai-tools** ⭐ 139.5K（今日 +397）
+   - 收集了 Augment Code、Claude Code、Cursor、Devin、Manus 等 20+ 款主流 AI 工具的系统提示词和内部模型信息，是 AI 工具透明度的标杆项目。
+   - [查看原文](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
-**洞察：** Dify 以 144k stars 成为第二大 AI Agent 开源项目，增速持续超越 LangChain。CrewAI 和 Agno 作为新兴多 Agent 框架快速崛起。BabyAGI 作为最早一批 Agent 项目，增长已基本停滞，显示赛道正在发生代际更替。
+6. **PostTrainBench 排行榜更新**
+   - 在最新的 Agentic 编码任务排行榜中，Opus 4.8 Claude Code Max 以 37.23% 的综合得分领跑，GPT 5.5 Codex CLI xHigh（28.35%）和 Gemini 3.1 Pro OpenCode（21.59%）紧随其后。值得注意的是，所有 Agentic 方法目前仍低于官方 Instruct 模型的 51.14% 基线。
+   - [查看原文](https://posttrainbench.com)
 
-### PostTrainBench — AI Agent Benchmark 排行榜
-
-| 排名 | 方法 | 平均分 | 亮点 |
-|------|------|--------|------|
-| 官方参考 | Official Instruct Models | 51.14% | 资源远超约束，仅作参考 |
-| **#1** | **Opus 4.8 Claude Code Max** | **37.23%** | 🔥6月9日新上榜即登顶 |
-| #2 | Opus 4.8 Claude Code High | 33.80% | HumanEval 53.35% |
-| #3 | Opus 4.7 Claude Code xHigh | 28.56% | BFCL 76.75% |
-| #4 | GPT 5.5 Codex CLI xHigh (Reprompted) | 28.35% | BFCL 99.25%（满分级） |
-| #5 | GPT 5.4 Codex CLI High (Reprompted) | 28.22% | GSM8K 68.72% |
-
-**核心发现：** Opus 4.8 + Claude Code Max 以 37.23% 刷新纪录。函数调用（BFCL）仍是 Agent 最强能力维度（可达 99%），数学推理（AIME 仅 12.50%）是最大短板。Claude Code 生态在前三占据两席，较为强势。
-
-- 数据来源：[PostTrainBench](https://posttrainbench.com)
+7. **Cohere 开源 30B 编码 Agent**
+   - Cohere 开源了一款 30B 参数的编码 Agent，可在单张 H100 GPU 上运行，大幅降低了企业部署 AI 编码 Agent 的硬件门槛。
+   - [查看原文](https://venturebeat.com/category/ai/)
 
 ---
 
 ## 六、趋势分析与预测 📈
 
-### 1. 「Agent Skills」生态全面爆发，框架时代向技能时代演进
-GitHub Trending 同日出现五个 Skills 类项目，superpowers 以 223k stars 一骑绝尘。这标志着 AI Agent 行业正从「如何构建 Agent」（框架）转向「Agent 能做什么」（技能）。预计未来 6 个月，垂直领域的 Agent Skills 市场将成为新的增长极，类似移动互联网的 App Store 模式。
+1. **Agent 技能市场生态正在成形**
+   - 今日 GitHub Trending 前两名均为 Agent Skills 相关项目（agent-skills、pm-skills），加上持续爆发的 superpowers（223K stars），以及 last30days-skill 的快速增长，表明 Agent 领域的"技能市场"模式正在成为主流。开发者不再从零构建 Agent，而是通过组装和组合可复用的技能模块快速构建能力。预测：未来 3-6 个月内将出现更多垂直行业的 Agent 技能市场。
 
-### 2. 企业 Agent 基础设施融资热，上下文管理成关键壁垒
-Jedify（$24M）、NeoCognition（$40M）、AgentMail（$6M）接连获得大额融资，Snowflake 等数据平台巨头以战略投资方式入场。企业级 Agent 面临的核心挑战已从模型能力转向上下文管理——如何让 Agent 准确理解企业特有的业务数据。上下文图谱（Context Graph）可能成为下一代企业 AI 基础设施的标准组件。
+2. **AI 监管辩论进入白热化阶段**
+   - Anthropic CEO 呼吁 FAA 式 AI 监管、德国法院裁决 Google AI Overviews 需承担法律责任、Signal 领导层警告 Agentic AI 安全隐患，三则新闻同日出现绝非偶然。随着 Claude Fable 等强大 Agent 系统的实际部署，社会对其安全性和法律责任的关注已达到临界点。预测：2026 年下半年将出现更多 AI Agent 相关的监管立法和企业内部合规政策。
 
-### 3. Agent 安全与治理从边缘走向中心
-xAI 安全举报诉讼、Anthropic Fable 护栏争议、Meta Rogue Agents 事件、AI Agent 身份认证等多个安全议题在同期集中爆发。随着 Agent 获得越来越多的自主行动权限（支付、消息、代码执行），安全治理将从学术讨论转向工程实践和监管要求。预计 Agent 安全审计工具将成为下一个创业热点。
+3. **企业 AI Agent 部署从实验走向规模化的关键转折**
+   - "AI 上瘾"企业月均每人 7500 美元的 AI 支出、Amazon 175 亿美元借款加码 AI、Jedify 获 2400 万美元融资为 Agent 提供企业上下文 — 这些信号表明企业 AI Agent 的部署正在经历从 POC 到规模化落地的关键转折。但 MassMutual 的 12 个月合同策略也揭示了企业对供应商锁定的担忧。
 
-### 4. 国内 Agent 竞争进入「操作系统」级别
-奥尼 AI Agent OS、腾讯统一入口、百度+FluxA 支付基建、阿里 QoderWork 桌面 Agent——国内巨头不再满足于单个 Agent 产品，而是从 OS、支付、入口、桌面四个层面同时推进，试图建立完整的 Agent 生态闭环。这预示着国内 Agent 竞争将从单点产品升级为生态体系的全面战争。
+4. **Agent 安全研究成为学术界新热点**
+   - 今日 arXiv 至少有 10 篇论文直接涉及 Agent 安全、监控和对齐问题（AgentCanary、Arbiter Agent、GitInject、The Interlocutor Effect 等），远超以往的日均水平。这反映了学术界对 Agent 系统在生产环境中暴露出的安全问题快速响应，Agent 安全将成为 2026 年 AI 研究的重要子领域。
 
-### 5. 学术前沿：Agent 自我改进与长程任务成两大主线
-arXiv 论文显示，Agent 自我改进（EEVEE、Role-Agent、SkillOpt）和长时间跨度任务（SearchSwarm、Workflow-GYM）是当前两个最活跃的学术方向。Moonshine（数学研究）和 DarkAgents（暗物质物理）则表明 Agent 正加速进入基础科学研究。短期内，Agent 在垂直科学领域（生物、物理、数学）的突破性应用值得密切关注。
+5. **中国 Agent 生态基建加速，支付和平台成关键词**
+   - 百度智能云共建 Agent 支付基础设施、蚂蚁海外 AI 支付方案、微信智能体生态对接元宝，显示了国内巨头正在通过支付和平台能力构建 Agent 生态的底层基础设施。与海外偏重技能市场和技术框架不同，中国的 Agent 发展更注重商业闭环和生态打通。
 
 ---
 
-> 📅 报告生成时间：2026-06-11 | 🤖 生成引擎：Hermes Agent (Nous Research)
-> 本报告覆盖 10+ 信息来源，精选 30+ 条新闻/论文，力图呈现 AI Agent 领域的全景动态。
+> 📝 报告生成时间：2026-06-11 · 数据截止：2026-06-10
