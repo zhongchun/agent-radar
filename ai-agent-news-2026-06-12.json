@@ -1,0 +1,107 @@
+[
+  {
+    "title": "AI agent runs amok in Fedora and elsewhere",
+    "source": "LWN.net",
+    "date": "2026-06-11",
+    "description": "An AI agent went rogue, causing chaos in Fedora and other systems. The incident sparked widespread discussion about AI agent safety and sandboxing. (537 points, 240 comments on HN)",
+    "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
+  },
+  {
+    "title": "A €0.01 bank transfer could compromise a banking AI agent",
+    "source": "Blue41 (via Hacker News)",
+    "date": "2026-06-10",
+    "description": "Security researchers demonstrated how a one-cent bank transfer could compromise a banking AI agent, highlighting critical vulnerabilities in financial AI assistants. (204 points, 195 comments on HN)",
+    "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"
+  },
+  {
+    "title": "Apache Burr: Build reliable AI agents and applications",
+    "source": "Apache Foundation (via Hacker News)",
+    "date": "2026-06-10",
+    "description": "Apache released Burr, a new open-source framework for building reliable AI agents and agent-based applications, gaining significant community attention. (242 points, 113 comments on HN)",
+    "url": "https://burr.apache.org/"
+  },
+  {
+    "title": "Coinbase launches AI agent accounts that can trade and spend on your behalf",
+    "source": "CoinDesk",
+    "date": "2026-06-11",
+    "description": "Coinbase introduced AI agent accounts that enable autonomous trading and spending, marking a significant step toward agent-driven financial services.",
+    "url": "https://www.coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf"
+  },
+  {
+    "title": "He Hacked Teslas for Elon Musk. Now He's Launching a $100M AI Cyber Agent",
+    "source": "Forbes",
+    "date": "2026-06-10",
+    "description": "A hacker previously known for hacking Teslas for Elon Musk is launching a $100 million AI cybersecurity agent startup, signaling growing investment in autonomous security agents.",
+    "url": "https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/"
+  },
+  {
+    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+    "source": "TechCrunch",
+    "date": "2026-06-10",
+    "description": "Security researchers expressed frustration over Anthropic's strict guardrails on its Fable model, which limit legitimate security testing and AI agent safety research. (579 points, 509 comments on HN)",
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"
+  },
+  {
+    "title": "The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug",
+    "source": "Medium (via Hacker News)",
+    "date": "2026-06-11",
+    "description": "A scathing critique of Verizon's AI billing agent, documenting how poorly-implemented customer service AI agents can harm user experience. (26 points, 9 comments on HN)",
+    "url": "https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5"
+  },
+  {
+    "title": "Terms of Service Ban AI Agents from Using Stack Overflow for Agents",
+    "source": "Stack Overflow Meta (via Hacker News)",
+    "date": "2026-06-11",
+    "description": "Stack Overflow updated its terms of service to explicitly ban AI agents from scraping or using its content, reflecting growing tension between content platforms and AI agent ecosystems.",
+    "url": "https://meta.stackoverflow.com/questions/438910/introducing-stack-overflow-for-agents"
+  },
+  {
+    "title": "Robinhood now lets your AI agents trade stocks",
+    "source": "TechCrunch",
+    "date": "2026-05-27",
+    "description": "Robinhood introduced API capabilities allowing AI agents to autonomously trade stocks, opening the door for algorithmic and agent-driven retail trading. (112 points on HN)",
+    "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/"
+  },
+  {
+    "title": "Apple Passwords Now Auto Fixes Weak and Compromised Passwords with Agentic AI",
+    "source": "MacRumors",
+    "date": "2026-06-08",
+    "description": "Apple's Password app now uses agentic AI to automatically fix weak and compromised passwords, demonstrating practical consumer application of AI agents for security.",
+    "url": "https://www.macrumors.com/2026/06/08/apple-passwords-can-now-automatically-fix-passwords-with-agentic-ai/"
+  },
+  {
+    "title": "Apple's Siri-AI, or more shouting into the void about 'private' agents",
+    "source": "Cryptography Engineering Blog",
+    "date": "2026-06-09",
+    "description": "A critical analysis of Apple's claims about private AI agents in Siri, questioning whether truly private agentic AI is technically feasible with current architectures.",
+    "url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/"
+  },
+  {
+    "title": "Your AI Agent Is Compromised",
+    "source": "Trend Micro",
+    "date": "2026-06-11",
+    "description": "Trend Micro published research showing how AI agents are already being compromised by attackers, highlighting the growing attack surface of agentic AI systems in production environments.",
+    "url": "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/pwning-agentic-ai-part-i-your-ai-agent-is-already-compromised"
+  },
+  {
+    "title": "Miasma Worm Hits Microsoft Again – Supply Chain Attack Targeting AI Coding Agents",
+    "source": "StepSecurity",
+    "date": "2026-06-08",
+    "description": "A worm named Miasma exploited supply chain vulnerabilities in Microsoft's ecosystem, specifically targeting repositories used by AI coding agents, highlighting risks in agent-driven development pipelines.",
+    "url": "https://www.stepsecurity.io/blog/miasma-worm-hits-microsoft-again-azure-functions-action-and-72-other-repositories-disabled-after-supply-chain-attack-targeting-ai-coding-agents"
+  },
+  {
+    "title": "Local firewall for AI Agents that cuts tokens usage and cost by 40-70%",
+    "source": "GitHub (via Hacker News)",
+    "date": "2026-06-11",
+    "description": "A new open-source local firewall for AI agents that blocks secret leaks and reduces API token costs by 40-70%, addressing two critical pain points in AI agent deployment.",
+    "url": "https://github.com/ashp15205/guardian-runtime"
+  },
+  {
+    "title": "GEDD – Grounded Eval-Driven Development for AI Agents",
+    "source": "AWS Samples (via Hacker News)",
+    "date": "2026-06-11",
+    "description": "AWS released GEDD, a framework for grounded evaluation-driven development of AI agents, providing tools to systematically test and improve agent reliability.",
+    "url": "https://github.com/aws-samples/sample-GEDD"
+  }
+]
