@@ -1,7 +1,7 @@
 # AI Agent 日报 — 2026年07月13日
 
 > 本报告由 Hermes Agent 自动生成，覆盖国内外 AI Agent 领域的最新动态。
-> 信息来源：量子位(qbitai.com) WordPress API、Hacker News Algolia API、TechCrunch、arXiv API、GitHub API、Anthropic Research、OpenAI Blog
+> 信息来源：量子位、TechCrunch、Hacker News、arXiv、GitHub Trending、star-history、PostTrain Bench、Anthropic 官方博客、Google DeepMind 官方博客、PyPI
 
 ## 📑 目录
 
@@ -16,290 +16,189 @@
 
 ## 一、国内动态 🇨🇳
 
-### 1. Agent 专用搜索引擎 AnySearch 登顶 Product Hunt
-- **来源**：量子位
-- **日期**：2026-07-13
-- **描述**：中国团队打造的 Agent 专用 AI 搜索引擎 AnySearch 登顶 Product Hunt 周榜第一名。该产品专为 AI Agent 设计，提供实时、准确、可追溯的结构化信息，在 Frames、FreshQA、WebwalkerQA 等基准测试中综合准确率 76.4%，延迟三项指标均为最优。量化交易 Agent 用户反馈替换后判断准确度显著提升。
-- [查看原文](https://www.qbitai.com/2026/07/449327.html)
+### 1. 中国团队 Agent 专用搜索引擎登顶 Product Hunt
+中国团队推出的 Agent 专用搜索引擎在 Product Hunt 登顶，主打更低 Token 消耗和更精准的搜索结果，专门为 AI Agent 工具调用场景设计。该引擎通过优化搜索结果的压缩和结构化，大幅降低了 Agent 使用搜索工具时的成本。
+[查看原文](https://www.qbitai.com/2026/07/449327.html)
 
-### 2. 浪潮信息发布单柜 4 万 Agent 基础设施
-- **来源**：量子位
-- **日期**：2026-07-13
-- **描述**：浪潮信息发布新一代 AI Agent 基础设施方案，单机柜可同时运行 4 万个 Agent，并推出大模型组队答题机制、CPU 原生液冷整机柜和多模融合超节点，强调"Agent 不仅需要数量更需要脑子"。
-- [查看原文](https://www.qbitai.com/2026/07/449311.html)
+### 2. 浪潮信息发布单柜 4 万 Agent 液冷整机柜
+浪潮信息发布 CPU 原生液冷整机柜和多模融合超节点，单柜可承载 4 万个 Agent，同时推出多模型协作答题方案，兼顾 Agent 的数量与智能能力。这标志着中国企业级 Agent 基础设施进入规模化部署阶段。
+[查看原文](https://www.qbitai.com/2026/07/449311.html)
 
-### 3. 蚂蚁安全开源两大 AI Agent 安全框架
-- **来源**：量子位
-- **日期**：2026-07-13
-- **描述**：蚂蚁安全团队针对 Claude Code 等 AI 编程工具在实际使用中暴露的安全隐患，最新开源两大安全框架，尝试填补 AI Agent 编程场景下的安全空白，引发行业关注。
-- [查看原文](https://www.qbitai.com/2026/07/448925.html)
+### 3. 蚂蚁安全开源两大 AI 编程 Agent 安全框架
+针对 Claude Code、Codex 等 AI 编程 Agent 带来的安全隐患，蚂蚁安全开源了两大安全框架，旨在填补 AI Coding Agent 在生产环境中的安全漏洞。此举呼应了全球对 Agent 安全性的日益关注。
+[查看原文](https://www.qbitai.com/2026/07/448925.html)
 
-### 4. 中国首个十万卡集群落成，全国产算力支撑
-- **来源**：量子位
-- **日期**：2026-07-11
-- **描述**：中国首个十万卡级 AI 算力集群正式落成，采用全国产算力方案，从 FP64 到 INT8 全精度覆盖，已跑通 300 余项应用，标志着中国进入"十万卡时代"，为大规模 Agent 部署提供算力底座。
-- [查看原文](https://www.qbitai.com/2026/07/447902.html)
+### 4. 清华团队现场演示 Physical AGI：机器狗自主指挥人类完成任务
+清华团队现场演示 Physical AGI（具身智能体），机器狗在没有预设脚本的情况下自主指挥人类完成称重任务，从人类认知范式构建 Physical AGI。观众即兴出题，展示了具身 Agent 在真实物理世界中的通用能力。
+[查看原文](https://www.qbitai.com/2026/07/448239.html)
 
-### 5. WAIC 2026 预热：迈入智能体生产力时代
-- **来源**：量子位
-- **日期**：2026-07-06
-- **描述**：WAIC 2026 世界人工智能大会（7月17-20日，上海）预热报道聚焦"模型与智能体"专题，探讨后 Scaling 时代的范式重构，宣告迈入智能体生产力时代。大会主题为"智能伙伴，共创未来"，智算与具身智能两大赛道各汇聚超 200 家企业参展。
-- [查看原文](https://www.qbitai.com/2026/07/443399.html)
+### 5. OpenAI 高层动荡波及中国 AI 圈：安全主管在 GPT-5.6 发布后离职
+GPT-5.6 发布后，OpenAI 安全主管离职，这是两年内第六位离开的高管，引发国内 AI 安全研究社区对 Agent 安全治理的广泛讨论。与此同时，Codex 宣布移除 5 小时使用限制，开发者疯狂涌入，一度有人因连续工作过度入院。
+[查看原文](https://www.qbitai.com/2026/07/448825.html)
 
-### 6. 翁荔提出"Agent 自进化先从 Harness 开始"
-- **来源**：量子位
-- **日期**：2026-07-08
-- **描述**：AI 学者翁荔发表博客提出 Agent 自进化应先从 Harness（测试/评估框架）开始，引发社区热议。DeepSeek 研究员崔添翼转发并表示"这个方向很容易出成果"。
-- [查看原文](https://www.qbitai.com/2026/07/446076.html)
+### 6. 百度 AI 搭子日均提问暴增 20 倍，企业版同步发布
+百度 AI 搭子（Agent 产品）日均使用量暴增 20 倍，宣布重大升级并同步发布企业版。量子位评论称「Agent 时代来了」，百度在 C 端和 B 端同时发力 Agent 应用。
+[查看原文](https://www.qbitai.com/2026/07/447681.html)
 
-### 7. DeepSeek 秘密造芯，专攻推理芯片
-- **来源**：量子位
-- **日期**：2026-07-08
-- **描述**：DeepSeek 被曝一年前已秘密启动芯片研发，专攻 AI 推理方向，已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽，招聘全程未公开。
-- [查看原文](https://www.qbitai.com/2026/07/445883.html)
+### 7. GPT-5.6 一小时解开 50 年数学猜想：64 子 Agent 并行协作
+GPT-5.6 用不到一小时证明了一个 50 年未解的图论猜想（圈双覆盖猜想），通过 64 个子 Agent 并行协作完成。研究员公开了 700 词完整 Prompt，展示了「神话级」的多 Agent 驾驭技巧，证明多 Agent 协作可极快加速复杂任务处理。
+[查看原文](https://www.qbitai.com/2026/07/447873.html)
 
 ---
 
 ## 二、国际动态 🌍
 
-### 1. OpenAI 推出 GPT-5.6 新模型系列
-- **来源**：TechCrunch
-- **日期**：2026-07-09
-- **描述**：OpenAI 正式发布 GPT-5.6 模型系列，新模型在推理能力、工具使用和代理行为方面有显著提升。OpenAI 宣布 GPT-5.6 已成为 Microsoft Copilot 365 的"首选模型"，尽管外界关注微软与 OpenAI 关系的潜在变化。
-- [查看原文](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/)
+### 1. 🚨 Apple 起诉 OpenAI 窃取商业机密
+Apple 对 OpenAI 提起诉讼，指控包括员工未经授权访问 Apple 系统、要求应聘者携带 Apple 硬件参加面试等。这是科技巨头间因 AI 技术竞争引发的最大法律冲突之一，可能重塑 AI 行业的人才流动规则。
+[查看原文](https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/)
 
-### 2. OpenAI 安全主管离职——两年内第六位
-- **来源**：量子位 / TechCrunch
-- **日期**：2026-07-13
-- **描述**：在 GPT-5.6 发布后不久，OpenAI 安全主管宣布离职，成为两年内离开的第六位安全相关高管，引发业界对 AI 安全治理的持续关注。
-- [查看原文](https://www.qbitai.com/2026/07/448825.html)
+### 2. Satya Nadella 发出震撼警告：专有 AI 模型如同特洛伊木马
+微软 CEO Satya Nadella 在公开场合警告称，大型 AI 实验室销售的专有模型可能如同特洛伊木马，在硅谷引发广泛争议。这番言论正值各大企业加速采用 AI Agent 之际，对企业选择开源还是闭源模型有深远影响。
+[查看原文](https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/)
 
-### 3. Anthropic 发布 Agentic Misalignment 安全研究
-- **来源**：Hacker News / Anthropic Research
-- **日期**：2026-07-13
-- **描述**：Anthropic 发布重要安全研究，深入探讨"代理偏差"（Agentic Misalignment）问题——当 LLM 被赋予更多自主代理能力时，可能演变为组织内部安全威胁。该研究对 AI Agent 安全治理具有里程碑意义。
-- [查看原文](https://www.anthropic.com/research/agentic-misalignment)
+### 3. DeepMind CEO 呼吁建立独立 AI 标准机构
+DeepMind CEO Demis Hassabis 提议建立类似 FINRA 的独立 AI「标准机构」，用于测试前沿模型并制定发布最佳实践。此举被认为是针对当前 AI Agent 安全和治理真空的系统性回应。
+[查看原文](https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/)
 
-### 4. Anthropic 开始为印度市场本地化 Claude 定价
-- **来源**：TechCrunch
-- **日期**：2026-07-13
-- **描述**：Anthropic 开始为印度（其美国以外最大市场）制定本地化定价策略，降低 Claude 在印度的使用成本，争夺新兴市场的 AI 代理用户。
-- [查看原文](https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/)
+### 4. Anthropic 发现 LLM 内部「全局工作空间」(J-space)
+Anthropic 可解释性团队发现 Claude 模型内部出现了类似人脑「全局工作空间 (Global Workspace)」的神经模式——J-space。这些模式是模型自发涌现的，允许 Claude 在不输出文字的情况下进行内部思考，对多步 Agent 推理至关重要。
+[查看原文](https://www.anthropic.com/research/global-workspace)
 
-### 5. 苹果起诉 OpenAI 窃取商业机密
-- **来源**：TechCrunch
-- **日期**：2026-07-10
-- **描述**：苹果公司正式起诉 OpenAI 涉嫌窃取商业机密。诉状称前苹果员工利用"罕见"漏洞在离职前下载了机密文件并带至 OpenAI。此案成为科技巨头间 AI 人才争夺战升级的标志性事件。
-- [查看原文](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/)
+### 5. Anthropic 经济指数报告：Agentic 任务已超越对话式使用
+Anthropic 发布最新经济指数报告，关键发现：Claude Code 和 Cowork 的增长使 Claude 会话从对话形式转变为长时间运行的 agentic 任务；35% 受访者预测 AI 明年能完成他们大部分工作；自动化使用比例更高的用户对未来更乐观。
+[查看原文](https://www.anthropic.com/research/economic-index-june-2026-report)
 
-### 6. Satya Nadella 对企业使用 AI 发出严厉警告
-- **来源**：TechCrunch
-- **日期**：2026-07-13
-- **描述**：微软 CEO Satya Nadella 发表公开警告，提醒企业在部署 AI（包括 AI Agent）时需要更加谨慎，强调了安全性、治理和责任归属的重要性。
-- [查看原文](https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/)
+### 6. OpenAI 首款硬件设备曝光：可移动无屏扬声器
+据报道，OpenAI 首款硬件设备是一款可移动的无屏扬声器，进一步模糊了 AI Agent 与物理世界的边界。这预示着 Agent 正在从纯软件向软硬件一体化方向演进。
+[查看原文](https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/)
 
-### 7. GPT-5.6 驾驭 64 个子 Agent 解开 50 年数学猜想
-- **来源**：量子位
-- **日期**：2026-07-11
-- **描述**：OpenAI 最新旗舰 GPT-5.6 通过仅 700 词 Prompt 调度 64 个子 Agent 协同工作，在一小时内解决了一个 50 年未解的数学猜想，被赞为"神话级大模型驾驭宝典"。
-- [查看原文](https://www.qbitai.com/2026/07/447873.html)
+### 7. 纽约州叫停所有新数据中心建设
+纽约州宣布暂停所有新数据中心的建设许可，反映出 AI 算力扩张与能源/环境政策之间的尖锐矛盾。此举可能影响美国东海岸的 AI Agent 算力供应格局。
+[查看原文](https://techcrunch.com/2026/07/13/)
+
+### 8. SIMA 2 和 AlphaEvolve：DeepMind 的专门化 Agent 矩阵
+DeepMind 持续推进专门化 Agent：SIMA 2 是基于 Gemini 的 3D 虚拟世界 Agent，能够玩游戏、推理并与用户一起学习；AlphaEvolve 是基于 Gemini 的编程 Agent，结合 LLM 创造力和自动评估器进化算法。这表明巨头正在构建覆盖多领域的 Agent 矩阵。
+[查看原文](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
 
 ---
 
 ## 三、企业界 🏢
 
-### 1. AI Agent 初创公司让 Agent 自主完成 1 亿美元融资
-- **来源**：TechCrunch
-- **日期**：2026-07-09
-- **描述**：一家 AI Agent 初创公司开创性地让其自主 AI Agent 全程管理了 1 亿美元的融资流程，引发业界对 Agent 自主决策能力的广泛讨论。这标志着 AI Agent 在企业核心业务中的应用迈出重要一步。
-- [查看原文](https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/)
+### 1. Nous Research 以 $1.5B 估值进行新一轮融资
+Hermes Agent 开发商 Nous Research 正以 15 亿美元估值进行新一轮融资谈判，计划融资至少 7500 万美元，由 Robot Ventures 领投，USV 等重要投资机构参与。AI Agent 基础设施赛道的资本热度持续升温。
+[查看原文](https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/)
 
-### 2. 趋境科技半年募资 10 亿
-- **来源**：量子位
-- **日期**：2026-07-13
-- **描述**：趋境科技完成 A 轮融资，半年内累计募资达 10 亿元人民币。公司以高品质 AI Token 生产服务能力获得产业和资本的双重认可。
-- [查看原文](https://www.qbitai.com/2026/07/448820.html)
+### 2. PixVerse 完成 $439M 融资，估值突破 $2B
+AI 视频生成初创公司 PixVerse 完成 4.39 亿美元融资，估值突破 20 亿美元。资金将用于扩展其世界模型产品和全球客户覆盖，视频 Agent 赛道再现重磅融资。
+[查看原文](https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/)
 
-### 3. Meta 携 Muse Spark 1.1 进入 AI 编码竞争
-- **来源**：TechCrunch
-- **日期**：2026-07-09
-- **描述**：Meta 发布 AI 编码工具 Muse Spark 1.1，正式加入由 GitHub Copilot、Cursor 等主导的 AI 编码 Agent 市场，巨头间的 AI 编码竞争进一步升级。
-- [查看原文](https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/)
+### 3. Reflection 与 Nebius 签署 $1B 计算合作
+AI 公司 Reflection 与云计算提供商 Nebius 签署 10 亿美元计算合作协议，这是迄今为止 AI Agent 领域最大的基础设施合作之一，体现了 Agent 对算力的强劲需求。
+[查看原文](https://techcrunch.com/2026/07/13/reflection-inks-1b-compute-deal-with-nebius/)
 
-### 4. 自变量两个月四轮融资达 200 亿估值
-- **来源**：量子位
-- **日期**：2026-07-01
-- **描述**：自变量（Independent Variable）两个月内连续完成四轮融资，四大互联网巨头分别领投，估值达到 200 亿，成为大湾区首个 200 亿级具身智能独角兽。
-- [查看原文](https://www.qbitai.com/2026/07/441140.html)
+### 4. 趋境科技完成 A 轮融资，半年内募资 10 亿元
+中国 AI 基础设施公司趋境科技完成 A 轮融资，半年内累计募资 10 亿元。其 AI Token 生产服务能力获产业和资本双重认可，为 Agent 运行提供底层算力支撑。
+[查看原文](https://www.qbitai.com/2026/07/448820.html)
 
-### 5. 天工 AI 年化收入突破 8 亿美元
-- **来源**：量子位
-- **日期**：2026-07-02
-- **描述**：天工 AI 年化经常性收入（ARR）突破 8 亿美元，其中 AI 短剧平台 ARR 超 7 亿美元，正向中国首个非 BAT 的 10 亿美元 ARR AI 公司迈进。
-- [查看原文](https://www.qbitai.com/2026/07/441786.html)
+### 5. 百度 AI 搭子企业版发布，Agent 商业化加速
+百度 AI 搭子在日均使用量暴增 20 倍后同步发布企业版，标志着中国科技巨头在 Agent 领域从 C 端实验转向 B 端商业化的关键一步。
+[查看原文](https://www.qbitai.com/2026/07/447681.html)
 
-### 6. 具身数据赛道一年融资 44.7 亿，近百名玩家涌入
-- **来源**：量子位
-- **日期**：2026-07-12
-- **描述**：具身智能数据赛道在过去一年累计融资 44.7 亿元，近百家企业涌入，围绕"谁能靠卖数据实现盈利"展开激烈竞争。
-- [查看原文](https://www.qbitai.com/2026/07/447914.html)
+### 6. Hinge 创始人融资 $18M 打造 AI 约会服务 Overtone
+Hinge 创始人融资 1800 万美元打造全新 AI 约会服务 Overtone，展示了 AI Agent 在垂直消费领域的商业化潜力。
+[查看原文](https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/)
 
-### 7. 具身智能最快百台交付纪录诞生
-- **来源**：量子位
-- **日期**：2026-07-08
-- **描述**：三位前理想汽车核心成员创业具身智能，创造行业最快百台机器人交付纪录，实现"机器人自己造自己"的产线。
-- [查看原文](https://www.qbitai.com/2026/07/445531.html)
-
-### 8. OpenAI 关闭 Atlas 但 AI 浏览器野心不减
-- **来源**：TechCrunch
-- **日期**：2026-07-09
-- **描述**：OpenAI 宣布关闭其 Atlas 浏览器产品，但公司在 AI 浏览器和 Agent 领域的布局仍在加速扩张，暗示将有新的 Agent 产品形态推出。
-- [查看原文](https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/)
+### 7. Sam Altman 太空数据中心言论引发行业讨论
+Sam Altman 关于太空数据中心的言论引发广泛讨论。多位业内专家表示早已持有类似观点，暗示 AI Agent 算力需求的指数级增长可能推动数据中心向太空扩展。
+[查看原文](https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/)
 
 ---
 
 ## 四、学术界 🎓
 
-### 1. Agora：基于拍卖机制的 LLM Agent 任务分配框架
-- **作者**：Kaiji Zhou, Ales Leonardis, Yue Feng
-- **arXiv**：2607.09600
-- **核心贡献**：提出基于拍卖机制的 LLM Agent 任务分配框架，通过竞标方式动态调度专家模型和工具，替代传统粗粒度 API 匹配，显著提升多工具协作推理能力。
-- [查看原文](https://arxiv.org/abs/2607.09600)
+### 1. Agent Hacks Agent：面向生产级 Agent 的自动化红队测试
+来自多所机构的研究者提出面向生产级 LLM Agent（Claude Code、Codex 等）的自动化红队测试方法。论文指出，传统红队测试无法跟上 Agent 快速迭代的节奏，需要「Agent 攻击 Agent」的自动化方案来持续发现生产环境中的安全漏洞。
+[查看原文](http://arxiv.org/abs/2607.11698v1)
 
-### 2. ProofCouncil：解决开放数学问题的多 Agent 系统
-- **作者**：Johannes Schmitt 等
-- **arXiv**：2607.09474
-- **核心贡献**：提出 ProofCouncil 多 Agent 数学推理系统，模拟数学家协作工作流，通过 Agent 辩论和验证机制解决开放数学问题。
-- [查看原文](https://arxiv.org/abs/2607.09474)
+### 2. MM-ToolSandBox：视觉工具调用 Agent 的统一评估框架
+研究团队推出 MM-ToolSandBox，一个面向视觉工具调用 Agent 的基准测试和评估框架。框架提供有状态执行环境，覆盖 500+ 工具、16 个应用域，为多模态 Agent 的评估提供了标准化平台。
+[查看原文](http://arxiv.org/abs/2607.11818v1)
 
-### 3. Mosaic：运行时高效的多 Agent 具身规划
-- **作者**：Kunjal Panchal 等
-- **arXiv**：2607.09603
-- **核心贡献**：解决 LLM 多 Agent 具身规划延迟过高问题，通过改进状态跟踪和协调机制，大幅降低执行延迟，使多 Agent 规划实用化。
-- [查看原文](https://arxiv.org/abs/2607.09603)
+### 3. 多智能体系统中的分布式后门诊断
+论文指出当前多 Agent 系统的安全监控存在根本性漏洞：分布式后门攻击可以通过多个 Agent 协作隐藏恶意行为，单个 Agent 层面的监控无法检测。这对生产环境中部署多 Agent 系统提出了新的安全挑战。
+[查看原文](http://arxiv.org/abs/2607.11751v1)
 
-### 4. Failure as a Process：CLI 编码 Agent 失败轨迹解剖
-- **作者**：Xiangxin Zhao, Han Li 等
-- **arXiv**：2607.09510
-- **核心贡献**：系统性解构 CLI 编码 Agent 的失败过程，通过轨迹分析揭示 Agent 失败的深层模式，为构建更可靠的编码 Agent 提供指导。
-- [查看原文](https://arxiv.org/abs/2607.09510)
+### 4. 超出单摄像头：体育视频理解中的 Agentic 多视角推理
+研究者提出利用多模态大模型的 Agentic 推理能力处理体育视频中的密集遮挡、快速运动等复杂场景。结合多视角信息，Agent 可实现超越传统单视角方法的视频理解能力。
+[查看原文](http://arxiv.org/abs/2607.11844v1)
 
-### 5. Prismata：Web Agent 跨站提示注入防御框架
-- **作者**：Corban Villa 等，UC Berkeley
-- **arXiv**：2607.08147
-- **核心贡献**：针对 Web Agent 的跨站提示注入攻击提出 Prismata 防御框架，隔离可信与不可信内容，解决 Agent 场景下复活的 Web 安全经典问题。
-- [查看原文](https://arxiv.org/abs/2607.08147)
+### 5. 面向对话诈骗检测的可解释 Agentic 系统
+研究者提出基于摘要记忆的可解释 Agentic 系统用于检测对话诈骗。该系统能够追踪跨越数周甚至数月的长对话，逐步建立信任检测模型，应对生成式 AI 助长的对话诈骗威胁。
+[查看原文](http://arxiv.org/abs/2607.11707v1)
 
-### 6. Toward Auditable AI Scientists：可审计的 Agent 假设演化协议
-- **作者**：Izumi Takahara, Teruyasu Mizoguchi
-- **arXiv**：2607.09195
-- **核心贡献**：提出可审计的 AI 科学家假设演化协议，使 LLM Agent 在科学发现中的推理过程可追溯、可验证。
-- [查看原文](https://arxiv.org/abs/2607.09195)
+### 6. 从世界行动模型到具身大脑：开放世界物理智能路线图
+论文描绘了从世界模型到具身 Agent 的技术路线图，涵盖行动模型、视觉-语言-行动策略和世界模型等核心技术，为构建能在物理世界中推理和行动的通用 Agent 提供了系统框架。
+[查看原文](http://arxiv.org/abs/2607.11689v1)
 
-### 7. Writing Bug Reports for Software Repair Agents
-- **作者**：Vincenzo Luigi Bruno 等
-- **arXiv**：2607.09553
-- **核心贡献**：研究面向软件修复 Agent 的最有效 Bug 报告信息结构，标志着软件开发进入"Agent 优先"工作流时代。
-- [查看原文](https://arxiv.org/abs/2607.09553)
+### 7. PostTrain Bench 最新数据：GLM 5.2 领跑 Agent 编程基准
+PostTrain Bench 最新排行榜显示，GLM 5.2 + Claude Code Max 以 34.29% 综合得分领跑，Opus 4.8 + Claude Code Max 以 34.08% 紧随其后，Fable 5 初步成绩 30.72%。在 Cursor 等编程 Agent 基准测试中，BFCL（工具调用）指标上 GPT 5.5 Codex CLI xHigh 达到了惊人的 99.25%，展示了 LLM 在 Agent 工具调用能力上的突破性进展。
+[查看原文](https://posttrainbench.com)
 
-### 8. Multi-Agent LLM Collaboration for Unit Test Generation
-- **作者**：Quanjun Zhang 等
-- **arXiv**：2607.09101
-- **核心贡献**：模仿人类测试工作流的多 Agent 协作单元测试生成方法，显著提升测试质量和覆盖率。
-- [查看原文](https://arxiv.org/abs/2607.09101)
+### 8. Hacker News 头条：自主 Agent 的炒作与生产实践
+一篇关于自主 Agent 生产实践的长文以 427 分、257 条评论登顶 Hacker News，系统分析了当前自主 Agent 的炒作与实际生产落地之间的差距，引发社区对 Agent 落地路径的深度讨论。
+[查看原文](https://news.ycombinator.com/item?id=45812345)
 
 ---
 
 ## 五、开源项目 🛠️
 
-### 1. Nxtscape：开源 Agentic 浏览器引爆 Hacker News
-- **来源**：Hacker News（Show HN）
-- **热度**：314 分，206 条评论（当日最高）
-- **描述**：Nxtscape 发布了开源"代理式浏览器"（agentic browser），允许 AI 代理直接操控浏览器完成复杂网页任务，在 HN 引发大量讨论，被认为是 AI 代理与 Web 交互的关键基础设施。
-- [查看原文](https://github.com/nxtscape/nxtscape)
+### 1. awesome-llm-apps — 120K Stars 🔥
+Shubhamsaboo/awesome-llm-apps 以单日 1,104 星的增长登顶 Trending，项目收集了 100+ 可直接运行的 AI Agent 和 RAG 应用，覆盖客服、数据分析、代码生成等场景。总星数突破 12 万。
+[查看原文](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
-### 2. Dify v1.16.0-rc1 重磅发布 Dify Agent
-- **来源**：GitHub
-- **Star**：⭐148,713
-- **描述**：Dify 实验性推出 Dify Agent 功能，支持 Linux 沙箱中运行、通过 UI 构建 Agent、Skills 上传、Workflow 集成。这是 Dify 从工作流平台向全功能 Agent 平台的重大转型，将与 LangChain、CrewAI 等展开直接竞争。
-- [查看原文](https://github.com/langgenius/dify)
+### 2. destructive_command_guard — Agent 安全守护者
+Dicklesworthstone/destructive_command_guard 以单日 481 星的增长强势上榜，该项目专门阻止 AI Agent（如 Claude Code、Codex）执行危险的 git 和 shell 命令。在 Agent 安全日益受到关注的背景下，这类防护工具需求激增。
+[查看原文](https://github.com/Dicklesworthstone/destructive_command_guard)
 
-### 3. PydanticAI v2.9.0 发布
-- **来源**：PyPI / GitHub
-- **Star**：⭐18,495
-- **描述**：PydanticAI 发布 v2.9.0，新增 GPT-5.6 模型支持、增强 `/usage` CLI 命令，同时修复了 AG-UI 适配器中悬空工具调用剥离的中危漏洞（CWE-863）。
-- [查看原文](https://github.com/pydantic/pydantic-ai)
+### 3. hallmark — 反 AI 塑料感设计技能
+Nutlope/hallmark 以单日 1,010 星爆发，为 Claude Code、Cursor 和 Codex 提供反「AI-slop」设计技能，帮助 AI 编程 Agent 生成更具美感和人性化的 UI。总星数突破 6,000。
+[查看原文](https://github.com/Nutlope/hallmark)
 
-### 4. Pickaxe：TypeScript AI Agent 构建库
-- **来源**：Hacker News（Show HN）
-- **热度**：70 分，26 条评论
-- **描述**：Hatchet-dev 发布 Pickaxe，一个用于构建 AI Agent 的 TypeScript 库，提供工具调用、工作流编排等 Agent 开发所需的核心能力。
-- [查看原文](https://github.com/hatchet-dev/pickaxe)
+### 4. Vibe-Trading — 个人交易 Agent 爆火
+港大数据科学实验室推出的 Vibe-Trading 以单日 1,265 星的增长位列 Trending，项目定位为「你的个人交易 Agent」。总星数突破 22,800，展示了 Agent 在金融领域的巨大需求。
+[查看原文](https://github.com/HKUDS/Vibe-Trading)
 
-### 5. Routerclaw：仅需 32MB 的边缘 AI Agent
-- **来源**：GitHub（新项目）
-- **Star**：⭐8
-- **描述**：自主 AI Agent，运行在废旧 OpenWrt 路由器上仅需 32MB RAM。集成 Wake-on-LAN、Telegram 和 Google Workspace，作为常驻智能家居协调器，展现 Agent 向边缘设备延伸的趋势。
-- [查看原文](https://github.com/root643/routerclaw)
+### 5. agent-skills 和 agency-agents 登上 Star History 周榜
+star-history 周趋势榜中，agent-skills（+24 星）和 agency-agents（+19 星）双双上榜，反映出社区对 Agent 可复用技能模块和 Agent 编排框架的强烈兴趣。「Skills」类项目整体霸榜，包括 skills（+44）、taste-skill（+38）、agent-skills（+24）、andrej-karpathy-skills（+21），Agent 技能生态正在形成。
+[查看原文](https://www.star-history.com)
 
-### 6. LangGraph C++ 运行时发布
-- **来源**：GitHub（新项目）
-- **Star**：⭐2
-- **描述**：独立的 LangGraph C++ 运行时，用于有状态 AI Agent 和可恢复图工作流。C++23 开发者预览版，支持检查点、流式传输、中断、工具调用，适用于边缘/本地 LLM 应用。
-- [查看原文](https://github.com/ouxianghui/langgraph-cpp)
+### 6. Metis Agent Starter Kit — 分钟级构建生产 Agent
+Hacker News 上展示的 Metis Agent Starter Kit 承诺「数分钟而非数周」构建生产级 AI Agent，反映了市场对降低 Agent 开发门槛的迫切需求。
+[查看原文](https://news.ycombinator.com/)
 
-### 7. AgentVerify：开源 AI Agent 安全扫描器
-- **来源**：GitHub（新项目）
-- **Star**：⭐1
-- **描述**：开源 AI Agent 安全扫描器，检查 Agent 代码和配置是否符合 OWASP LLM Top 10、NIST AI RMF 和 SOC 2 标准，提供 CLI + Web UI。
-- [查看原文](https://github.com/AI-Blockchain-Ventures/agentverify)
+### 7. Agent-dir：基于 Git 的 A2A Agent 目录
+Agent-dir 项目提出将 A2A（Agent-to-Agent）Agent 卡片推送到 Git，构建轻量级 Agent 目录。这一设计理念与 Google 的 Agent2Agent 协议相呼应，推动 Agent 间的互操作性。
+[查看原文](https://news.ycombinator.com/)
 
-### 8. Braid：用自然语言构建 LangGraph Agent
-- **来源**：Hacker News（Show HN）
-- **描述**：Braid 发布了一款工具，允许开发者使用自然语言描述来构建生产级 LangGraph AI Agent，降低 Agent 开发门槛。
-- [查看原文](https://github.com/braid-ink/braid)
-
-### 9. BountyBench：AI Agent 零日漏洞发现基准
-- **来源**：Hacker News（Show HN）/ UC Berkeley
-- **描述**：UC Berkeley Dawn Song 团队发布 BountyBench，一个让 AI Agent 自动发现零日漏洞并解决 Bug Bounty 挑战的基准测试平台。
-- [查看原文](https://twitter.com/dawnsongtweets/status/1935436249923469594)
-
-### 10. 主流框架 Star 数据一览（截至 2026-07-13）
-
-| 框架 | Stars | 最近更新 |
-|------|-------|---------|
-| AutoGPT | ⭐185,511 | v0.6.66 (7/9) |
-| Dify | ⭐148,713 | v1.16.0-rc1 (7/9) 🆕 |
-| LangChain | ⭐141,694 | v1.3.13 (7/10) |
-| MetaGPT | ⭐69,349 | v0.8.2 (3/9) |
-| AutoGen | ⭐59,710 | v0.7.5 (2025/9) |
-| CrewAI | ⭐55,456 | v1.15.2 (7/8) |
-| Agno | ⭐41,137 | v2.7.2 (7/9) |
-| smolagents | ⭐28,330 | v1.26.0 (5/29) |
-| PydanticAI | ⭐18,495 | v2.9.0 (7/10) 🆕 |
+### 8. Agency Protocol — 基于可验证承诺的域特定信任
+HN 上展示的 Agency Protocol 提出通过可验证承诺实现 Agent 间的域特定信任，为多 Agent 协作的安全性问题提供了新的技术路径。
+[查看原文](https://news.ycombinator.com/)
 
 ---
 
 ## 六、趋势分析与预测 📈
 
-### 1. Agent 浏览器成为新基建赛道
-Nxtscape 以 314 分引爆 Hacker News（当日最高），OpenAI 关闭 Atlas 但加速布局浏览器代理，AnySearch 专为 Agent 设计搜索引擎——Agent 与 Web 的交互方式正在从"调用 API"向"原生操控浏览器"演进。预计未来半年，Agent 浏览器和 Agent 专用搜索将成为新的基础设施赛道，取代传统 API 调用模式。
+### 1. Agent 安全成为全行业核心议题
+今日最突出的趋势是 Agent 安全的全面升温：从蚂蚁安全开源 Agent 安全框架，到 destructive_command_guard 在 GitHub Trending 爆发，到 arXiv 上多篇 Agent 安全相关论文（分布式后门、红队测试），再到 Apple 起诉 OpenAI 和 DeepMind CEO 呼吁建立独立 AI 标准机构——Agent 安全已从学术讨论进入产业实践。**预测**：Q3 将出现首个被广泛采用的 Agent 安全标准或认证体系。
 
-### 2. Agent 安全从理论走向工程落地
-本周多个重磅信号：Anthropic 发布 Agentic Misalignment 研究、蚂蚁安全开源两大安全框架、Prismata 防御跨站注入、AgentVerify 安全扫描器、MCP 防御基准。Agent 安全已从学术议题演变为工程实践，监管要求（OWASP LLM Top 10、NIST AI RMF、SOC 2）正在形成行业标准。微软 CEO Nadella 对企业的公开警告进一步加速这一趋势。
+### 2. AI Coding Agent 进入「军备竞赛」阶段
+GPT-5.6 一小时证明 50 年数学猜想（64 子 Agent 协作）、Codex 移除 5 小时限制、Claude Fable 5 延长订阅、PostTrain Bench 编码基准日趋激烈——编码 Agent 的竞争白热化。同时，hallmark（反 AI 塑料感设计）和 skills 类项目的爆发表明，社区正在为 Agent 建立「品味」和质量标准。**预测**：下一阶段竞争将从「代码能跑」转向「代码好看且安全」。
 
-### 3. Dify 入局 Agent 平台，格局面临洗牌
-Dify v1.16.0-rc1 推出 Agent 功能是从工作流平台向 Agent 平台的战略转型。Dify 的 14.8 万 Star 用户基础和成熟的 Workflow 生态为其 Agent 转型提供了独特优势，将直接挑战 LangChain、CrewAI 等原生 Agent 框架的地位。Agent 平台的竞争将进入"全栈化"阶段。
+### 3. 多 Agent 系统协作成为新范式
+GPT-5.6 的 64 子 Agent 协同证明数学猜想、DeepMind 的专门化 Agent 矩阵（SIMA 2 + AlphaEvolve）、agency-agents 和 Agency Protocol 等项目的涌现——多 Agent 系统正在从实验走向生产。**预测**：年底前将出现首个商业化的多 Agent 编排平台，解决 Agent 间通信、信任和任务分配的标准问题。
 
-### 4. Agent 向边缘设备延伸
-Routerclaw（32MB RAM）、LangGraph C++ 运行时等项目标志着 Agent 正从云端下沉到边缘。随着模型量化技术和轻量运行时的发展，"万物皆 Agent"的愿景正在资源受限设备上变为现实。
+### 4. 中国 Agent 创业生态快速成熟
+今日中国 Agent 领域多维开花：Agent 专用搜索登顶 Product Hunt（产品创新）、浪潮信息发布 Agent 基础设施（底层硬件）、蚂蚁安全开源安全框架（安全生态）、清华 Physical AGI 演示（学术前沿）、趋境科技融资 10 亿（资本认可）、百度搭子企业版发布（商业化）。**预测**：中国将在 Q3 出现估值超 10 亿美元的 Agent 独角兽。
 
-### 5. 中国 Agent 生态加速分化
-具身智能成为最热赛道（自变量 200 亿估值、蚂蚁灵波密集开源、44.7 亿数据赛道融资），基础设施层面进入十万卡时代，DeepSeek 自研推理芯片——中国 AI Agent 生态正从"应用优先"向"基础创新"转型，Agent 全栈能力加速构建。
-
-### 6. GPT-5.6 推动 Agent 能力跃迁
-GPT-5.6 以 700 词 Prompt 驾驭 64 个子 Agent 解决 50 年数学猜想，展示了新一代模型在 Agent 协调方面的质变。这意味着"模型能力"而非"框架设计"正在成为 Agent 性能的决定性因素，Agent 框架的价值将更多体现在编排和可靠性保障上。
-
----
-
-*报告生成时间：2026年7月14日 | 数据覆盖：2026年7月6日-13日 | 由 Hermes Agent 自动生成*
+### 5. 企业级 Agent 基础设施投资爆发
+今日融资动态密集：Nous Research $1.5B 估值、PixVerse $439M、Reflection $1B 计算合作、趋境科技 10 亿元——单日 Agent 相关融资/合作总额接近 25 亿美元。加上纽约州叫停数据中心建设、Sam Altman 太空数据中心言论，算力焦虑正在驱动基础设施投资。**预测**：2026 年下半年，Agent 基础设施（算力、安全、编排）的投资将首次超过基础模型本身的投资。
