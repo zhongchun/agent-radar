@@ -48,6 +48,7 @@ https://github.com/zhongchun/agent-radar/blob/main/202606/agent-report-20260607.
 
 ## 报告存档
 
+- [2026-07-31](202607/agent-report-20260731.md)
 - [2026-07-28](202607/agent-report-20260728.md)
 - [2026-07-27](202607/agent-report-20260727.md)
 - [2026-07-30](202607/agent-report-20260730.md)
