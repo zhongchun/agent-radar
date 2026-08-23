@@ -22,11 +22,11 @@
 ## 二、国际动态 🌍
 
 1. **hdiutil is deprecated in macOS 27 Golden Gate**  
-   [查看原文](https://lapcatsoftware.com/articles/2026/8/7.html) · HN 150 分 / 56 评论
+   [查看原文](https://lapcatsoftware.com/articles/2026/8/7.html) · HN 152 分 / 56 评论
 2. **GPT 5.6 Sol 20% price reduction**  
-   [查看原文](https://developers.openai.com/api/docs/models/gpt-5.6-sol) · HN 86 分 / 76 评论
+   [查看原文](https://developers.openai.com/api/docs/models/gpt-5.6-sol) · HN 86 分 / 77 评论
 3. **English ↔ Claudish Translator**  
-   [查看原文](https://programasweights.com/claudish) · HN 42 分 / 22 评论
+   [查看原文](https://programasweights.com/claudish) · HN 43 分 / 22 评论
 4. **Song (server of Nostr-powered Git) is a simple personal Git server**  
    [查看原文](https://gitworkshop.dev/npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6/song) · HN 38 分 / 0 评论
 5. **Delivery drivers will get minimum wage in Australia's 'world-first' deal**  
@@ -35,7 +35,7 @@
 ## 三、企业界 🏢
 
 1. **Anthropic appears to be A/B testing reduced effort levels in Claude Code**  
-   [查看原文](https://twitter.com/argofowl/status/2091150597374537729) · HN 157 分 / 148 评论
+   [查看原文](https://twitter.com/argofowl/status/2091150597374537729) · HN 158 分 / 149 评论
 2. **OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%**  
    [查看原文](https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/) · HN 35 分 / 3 评论
 3. **Anthropic IPO filing will show AI backlash as a risk factor, sources say**  
@@ -55,7 +55,7 @@
 ## 五、开源项目 🛠️
 
 1. **Show HN: Make your logo extra bright on HDR screens**  
-   [查看原文](https://www.soverybright.com/) · HN 42 分 / 52 评论
+   [查看原文](https://www.soverybright.com/) · HN 44 分 / 53 评论
 2. **Show HN: Structural code grep across public GitHub repositories**  
    [查看原文](https://grep.codemod.com/) · HN 12 分 / 0 评论
 3. **Show HN: Front end skill pack for AI agents, with machine-enforced quality gates**  
@@ -68,6 +68,6 @@
 ## 六、趋势分析与预测 📈
 
 本日共采集 73 条 AI Agent 相关新闻（HN），最高热度话题：
-Anthropic appears to be A/B testing reduced effort levels in Claude Code（157 分）。
+Anthropic appears to be A/B testing reduced effort levels in Claude Code（158 分）。
 
 （注：此脚本版日报为 HN 数据自动整理，趋势分析基于当日新闻热度分布自动生成。）
